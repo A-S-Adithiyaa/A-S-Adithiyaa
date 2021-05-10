@@ -1,5 +1,4 @@
 - 👀 I’m interested in ... Learning to code
-- 🌱 I’m currently learning ... Kivy programming 
 - 💞️ I’m looking to collaborate on ... any projects
 - 📫 How to reach me ... on adithiyaa1112@gmail.com
 
