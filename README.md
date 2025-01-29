@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Mee:
 🔭 I’m currently working on NLP<br>👯 I’m looking to collaborate on any Potential Projects<br>🌱 I’m currently getting a taste of Deep Learning
 
 
